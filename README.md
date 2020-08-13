@@ -12,3 +12,4 @@ My education
 1. ABC Primary School
 2. Dunman High School]
 
+![My favourite fruit](happy.jpg)
